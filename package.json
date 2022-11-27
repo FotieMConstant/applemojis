@@ -1,0 +1,24 @@
+{
+  "name": "applemoji",
+  "version": "1.0.0",
+  "description": "An Open-Source library for Apple emojis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FotieMConstant/applemoji.git"
+  },
+  "keywords": [
+    "applemoji",
+    "apple",
+    "emojis"
+  ],
+  "author": "fotiecodes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FotieMConstant/applemoji/issues"
+  },
+  "homepage": "https://github.com/FotieMConstant/applemoji#readme"
+}
