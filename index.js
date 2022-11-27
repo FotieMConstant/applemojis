@@ -17,4 +17,4 @@ const getOneByShortName = (shortName) => {
 
 
 
-module.exports = {getAll, getOneByCode};
+module.exports = {getAll, getOneByCode, getOneByShortName};
