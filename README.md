@@ -1,6 +1,13 @@
 # applemojis
 An Open-Source library for Apple emojis
 
+## Installation
+
+Using npm:
+```
+$ npm i applemojis
+```
+
 # Preview
 <img width="1280" alt="image" src="https://user-images.githubusercontent.com/42372656/204881655-b7dd4ed6-d249-4485-beca-68bf457f1348.png">
 
