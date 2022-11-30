@@ -1,6 +1,6 @@
 {
   "name": "applemojis",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An Open-Source library for Apple emojis",
   "main": "index.js",
   "scripts": {
