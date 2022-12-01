@@ -8,6 +8,27 @@ Using npm:
 $ npm i applemojis
 ```
 
+## Usage
+import to project;
+
+```
+import applemojis from 'applemojis';
+```
+
+## Methods
+
+- Get All emojis: get a all emojis objects by calling the function ```applemojis.getAll()``` function on applemojis
+```
+applemojis.getAll();
+```
+
+- Get one emoji by code: get a spacific emoji by passing the emoji code to the ```getOneByCode()``` function on applemojis
+```
+applemojis.getOneByCode("U+1F600");
+```
+
+- Get one emoji by short name: get a spacific emoji by passing the emoji's short name to the ```getOneByShortName()``` function on applemojis **[Not available yet]**
+
 # Preview
 <img width="1280" alt="image" src="https://user-images.githubusercontent.com/42372656/204881655-b7dd4ed6-d249-4485-beca-68bf457f1348.png">
 
