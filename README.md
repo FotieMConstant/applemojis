@@ -27,7 +27,7 @@ applemojis.getAll();
 applemojis.getOneByCode("U+1F600");
 ```
 
-- Get one emoji by short name: get a spacific emoji by passing the emoji's short name to the ```getOneByShortName()``` function on applemojis **[Not available yet]**
+- Get one emoji by short name: get a specific emoji by passing the emoji's short name to the ```getOneByShortName()``` function on applemojis **[Not available yet]**
 
 # Preview
 <img width="1280" alt="image" src="https://user-images.githubusercontent.com/42372656/204881655-b7dd4ed6-d249-4485-beca-68bf457f1348.png">
